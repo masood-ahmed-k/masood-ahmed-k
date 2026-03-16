@@ -4,9 +4,9 @@
 
 Data Analyst with 2+ years of professional experience at a global AI consultancy, working at the intersection of **conversational AI** and **business intelligence**. I specialise in turning raw chatbot session logs and complex interaction data into clean dashboards, meaningful KPIs, and product decisions that teams can act on.
 
-I've owned the full analytics lifecycle — writing SQL to surface failure patterns across hundreds of session records, building Power BI dashboards from scratch, defining performance baselines, and managing GCP data pipelines across multiple production virtual agents. Having also built and shipped Dialogflow agents end-to-end, I understand the data I analyse because I helped create it.
+I've owned the full analytics lifecycle writing SQL to surface failure patterns across hundreds of session records, building Power BI dashboards from scratch, defining performance baselines, and managing GCP data pipelines across multiple production virtual agents. Having also built and shipped Dialogflow agents end-to-end, I understand the data I analyse because I helped create it.
 
-Recently graduated with an **MSc in Data Science, AI & Digital Business**. My thesis compared Decision Trees, Neural Networks, ARIMA, and LSTM models for disease outbreak prediction — published December 2025 (DOI: [10.13140/RG.2.2.35607.23208](https://doi.org/10.13140/RG.2.2.35607.23208)).
+Recently graduated with an **MSc in Data Science, AI & Digital Business**. My thesis compared Decision Trees, Neural Networks, ARIMA, and LSTM models for disease outbreak prediction published December 2025 (DOI: [10.13140/RG.2.2.35607.23208](https://doi.org/10.13140/RG.2.2.35607.23208)).
 
 ---
 
