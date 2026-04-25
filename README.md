@@ -38,21 +38,30 @@ masood = {
 
 ## 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=masood-ahmed-k&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" height="175" />
-  <img src="https://streak-stats.demolab.com/?user=masood-ahmed-k&theme=tokyonight&hide_border=true" height="175" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masood-ahmed-k&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="160" />
-</div>
+<table width="100%">
+<tr>
+<td align="center" width="55%">
+<img src="https://github-readme-stats.vercel.app/api?username=masood-ahmed-k&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="100%" />
+</td>
+<td align="center" width="45%">
+<img src="https://streak-stats.demolab.com/?user=masood-ahmed-k&theme=tokyonight&hide_border=true" width="100%" />
+</td>
+</tr>
+<tr>
+<td colspan="2" align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masood-ahmed-k&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook&card_width=700" width="75%" />
+</td>
+</tr>
+</table>
 
 ---
 
-## 🏆 Trophies
+## 🎯 Skills at a Glance
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=masood-ahmed-k&theme=tokyonight&no-frame=true&column=7&margin-w=4" />
+  <img src="https://skillicons.dev/icons?i=py,fastapi,pytorch,tensorflow,huggingface,docker,git,github&perline=8" />
+  <br/>
+  <img src="https://skillicons.dev/icons?i=sqlite,gcp,linux,vscode,js,html,css,postgres&perline=8" />
 </div>
 
 ---
