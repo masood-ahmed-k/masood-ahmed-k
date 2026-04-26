@@ -17,18 +17,18 @@
 
 ## 🧠 About Me
 
-I'm an **AI Engineer** who builds autonomous systems that actually run on your hardware — no cloud, no API keys, no subscriptions.
+I'm an **AI Engineer** who builds autonomous systems that actually run on your hardware. No cloud, no API keys, no subscriptions.
 
-My flagship project **[VEGA AI](https://github.com/masood-ahmed-k/vega-ai)** is a full autonomous AI operating system with a Solo Leveling RPG HUD, 14 specialized agents, real-time token streaming, text-to-video generation, browser automation, and persistent memory — all running locally on a consumer RTX 4060.
+My flagship project **[VEGA AI](https://github.com/masood-ahmed-k/vega-ai)** is a full autonomous AI operating system with a Solo Leveling RPG HUD, 14 specialized agents, real-time token streaming, text-to-video generation, browser automation, and persistent memory. All running locally on a consumer RTX 4060.
 
 ```python
 masood = {
-    "currently_building": "VEGA AI — Autonomous AI OS (100% free & local)",
+    "currently_building": "VEGA AI: Autonomous AI OS (100% free & local)",
     "stack":     ["Python", "FastAPI", "Ollama", "diffusers", "ChromaDB", "Playwright"],
     "interests": ["LLMs", "Multi-Agent Systems", "RAG", "Computer Vision", "Time-Series ML"],
     "education": "MSc Data Science, AI & Digital Business",
-    "thesis":    "Disease Outbreak Prediction — Neural Nets vs LSTM vs ARIMA",
-    "day_job":   "2+ yrs @ Quantiphi (Global AI Consultancy) — Conv. AI & BI",
+    "thesis":    "Disease Outbreak Prediction: Neural Nets vs LSTM vs ARIMA",
+    "day_job":   "2+ yrs @ Quantiphi (Global AI Consultancy) | Conv. AI & BI",
     "gpu":       "RTX 4060 8GB · 32GB RAM · i7-13650HX",
     "fun_fact":  "I ran a full multi-agent LLM OS before most people finished Hello World",
 }
@@ -105,21 +105,21 @@ masood = {
 
 ## 🚀 Featured Projects
 
-### [🤖 VEGA AI — Autonomous AI Operating System](https://github.com/masood-ahmed-k/vega-ai)
+### [🤖 VEGA AI: Autonomous AI Operating System](https://github.com/masood-ahmed-k/vega-ai)
 
-> The world's most powerful 100% FREE fully local AI assistant — runs on your GPU, zero cloud
+> The world's most powerful 100% FREE fully local AI assistant. Runs on your GPU, zero cloud.
 
 [![Stars](https://img.shields.io/github/stars/masood-ahmed-k/vega-ai?color=gold&style=flat-square&logo=github)](https://github.com/masood-ahmed-k/vega-ai/stargazers)
 [![Forks](https://img.shields.io/github/forks/masood-ahmed-k/vega-ai?color=00d4ff&style=flat-square&logo=github)](https://github.com/masood-ahmed-k/vega-ai/forks)
 [![Python](https://img.shields.io/badge/Python-3.10+-blue?style=flat-square)](https://github.com/masood-ahmed-k/vega-ai)
 [![MIT](https://img.shields.io/badge/License-MIT-green?style=flat-square)](https://github.com/masood-ahmed-k/vega-ai/blob/main/LICENSE)
 
-- **14 Specialized Agents** — Planner, Research, Code, Browser, Video, Image, Memory, Finance, Health...
-- **Solo Leveling RPG HUD** — Hunter card, shadow army status, XP system, real-time resources
-- **Real-time Streaming** — token-by-token via Ollama → WebSocket → HUD (~3s first token)
-- **Text-to-Video** — 8 FREE providers (4 local GPU + 4 cloud)
-- **Persistent Memory** — ChromaDB episodic + SQLite procedural + NetworkX knowledge graph
-- **MCP Server** — expose VEGA's agents to Claude Desktop
+- **14 Specialized Agents:** Planner, Research, Code, Browser, Video, Image, Memory, Finance, Health...
+- **Solo Leveling RPG HUD:** Hunter card, shadow army status, XP system, real-time resources
+- **Real-time Streaming:** token-by-token via Ollama → WebSocket → HUD (~3s first token)
+- **Text-to-Video:** 8 FREE providers (4 local GPU + 4 cloud)
+- **Persistent Memory:** ChromaDB episodic + SQLite procedural + NetworkX knowledge graph
+- **MCP Server:** expose VEGA's agents to Claude Desktop
 
 ### [🦠 Disease Outbreak Prediction (MSc Thesis)](https://github.com/masood-ahmed-k/disease-outbreak-prediction)
 
@@ -129,7 +129,7 @@ Compared Decision Trees, Neural Networks, ARIMA & LSTM for predicting disease ou
 
 ### [🧠 Stroke Prediction ML](https://github.com/masood-ahmed-k/stroke-prediction-ml)
 
-ML pipeline for stroke risk prediction — feature engineering, class imbalance handling, and model evaluation across multiple classifiers.
+ML pipeline for stroke risk prediction: feature engineering, class imbalance handling, and model evaluation across multiple classifiers.
 
 ---
 
