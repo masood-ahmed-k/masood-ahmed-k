@@ -138,14 +138,6 @@ ML pipeline for stroke risk prediction: feature engineering, class imbalance han
 
 ---
 
-## 📈 Activity Graph
-
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=masood-ahmed-k&theme=tokyo-night&hide_border=true&area=true&area_color=00d4ff" width="100%" />
-</div>
-
----
-
 ## 🤝 Connect
 
 <div align="center">
