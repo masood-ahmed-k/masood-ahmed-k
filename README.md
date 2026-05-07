@@ -41,15 +41,15 @@ masood = {
 <table width="100%">
 <tr>
 <td align="center" width="55%">
-<img src="https://github-readme-stats.vercel.app/api?username=masood-ahmed-k&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github" width="100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=masood-ahmed-k&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=86400" width="100%" />
 </td>
 <td align="center" width="45%">
-<img src="https://streak-stats.demolab.com/?user=masood-ahmed-k&theme=tokyonight&hide_border=true" width="100%" />
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=masood-ahmed-k&theme=tokyonight&hide_border=true" width="100%" />
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masood-ahmed-k&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook&card_width=700" width="75%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masood-ahmed-k&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook&card_width=700&cache_seconds=86400" width="75%" />
 </td>
 </tr>
 </table>
@@ -141,18 +141,6 @@ ML pipeline for stroke risk prediction: feature engineering, class imbalance han
 
 ---
 
-## 🐍 Contribution Snake
-
-<div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/masood-ahmed-k/masood-ahmed-k/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/masood-ahmed-k/masood-ahmed-k/output/github-contribution-grid-snake.svg" />
-    <img alt="github-snake" src="https://raw.githubusercontent.com/masood-ahmed-k/masood-ahmed-k/output/github-contribution-grid-snake.svg" />
-  </picture>
-</div>
-
----
-
 ## 🤝 Connect
 
 <div align="center">
@@ -173,3 +161,4 @@ ML pipeline for stroke risk prediction: feature engineering, class imbalance han
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer" />
 
 </div>
+
