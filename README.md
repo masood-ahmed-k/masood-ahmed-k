@@ -39,22 +39,22 @@ masood = {
 ## 📊 GitHub Stats
 
 <div align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masood-ahmed-k&theme=tokyonight" width="100%" />
+<img src="https://gpsc-deploy.vercel.app/api/cards/profile-details?username=masood-ahmed-k&theme=tokyonight" width="100%" />
 </div>
 
 <table width="100%">
 <tr>
 <td align="center" width="50%">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=masood-ahmed-k&theme=tokyonight" width="100%" />
+<img src="https://gpsc-deploy.vercel.app/api/cards/stats?username=masood-ahmed-k&theme=tokyonight" width="100%" />
 </td>
 <td align="center" width="50%">
-<img src="https://github-readme-streak-stats-eight.vercel.app/?user=masood-ahmed-k&theme=tokyonight&hide_border=true" width="100%" />
+<img src="https://streak-deploy.vercel.app/?user=masood-ahmed-k&theme=tokyonight&hide_border=true" width="100%" />
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=masood-ahmed-k&theme=tokyonight" width="49%" />
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=masood-ahmed-k&theme=tokyonight" width="49%" />
+<img src="https://gpsc-deploy.vercel.app/api/cards/repos-per-language?username=masood-ahmed-k&theme=tokyonight" width="49%" />
+<img src="https://gpsc-deploy.vercel.app/api/cards/most-commit-language?username=masood-ahmed-k&theme=tokyonight" width="49%" />
 </td>
 </tr>
 </table>
