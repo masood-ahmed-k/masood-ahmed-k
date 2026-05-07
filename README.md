@@ -38,18 +38,23 @@ masood = {
 
 ## 📊 GitHub Stats
 
+<div align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=masood-ahmed-k&theme=tokyonight" width="100%" />
+</div>
+
 <table width="100%">
 <tr>
-<td align="center" width="55%">
-<img src="https://github-readme-stats.vercel.app/api?username=masood-ahmed-k&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&rank_icon=github&cache_seconds=86400" width="100%" />
+<td align="center" width="50%">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=masood-ahmed-k&theme=tokyonight" width="100%" />
 </td>
-<td align="center" width="45%">
+<td align="center" width="50%">
 <img src="https://github-readme-streak-stats-eight.vercel.app/?user=masood-ahmed-k&theme=tokyonight&hide_border=true" width="100%" />
 </td>
 </tr>
 <tr>
 <td colspan="2" align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=masood-ahmed-k&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=jupyter%20notebook&card_width=700&cache_seconds=86400" width="75%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=masood-ahmed-k&theme=tokyonight" width="49%" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=masood-ahmed-k&theme=tokyonight" width="49%" />
 </td>
 </tr>
 </table>
